@@ -1,0 +1,527 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="c083ad68-be34-4637-8348-b63a8c435460" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/SignalModel.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Bucket-plotting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/BucketData.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/CryQua.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_10_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_10_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_10_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_10_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_10_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_10_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_11_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_11_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_11_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_11_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_11_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_11_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_12_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_12_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_12_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_12_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_12_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_12_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_13_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_13_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_13_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_13_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_13_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_13_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_14_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_14_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_14_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_14_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_14_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_14_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_15_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_15_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_15_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_15_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_15_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_15_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_16_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_16_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_16_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_16_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_16_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_16_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_17_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_17_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_17_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_17_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_17_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_17_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_18_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_18_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_18_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_18_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_18_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_18_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_1_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_1_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_1_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_1_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_1_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_1_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_2_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_2_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_2_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_2_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_2_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_2_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_3_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_3_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_3_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_3_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_3_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_3_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_4_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_4_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_4_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_4_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_4_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_4_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_5_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_5_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_5_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_5_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_5_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_5_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_6_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_6_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_6_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_6_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_6_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_6_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_7_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_7_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_7_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_7_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_7_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_7_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_8_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_8_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_8_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_8_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_8_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_8_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_9_signal_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_9_signal_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_9_signal_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_9_signal_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_9_signal_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/clustering-based-on-count/clustering-based-on-count_duration_9_signal_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/countclustering.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Following-Positions/updated_final_clustered_processed_sigai_buckets.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Hist.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Out_7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.004/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.004/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.004/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.004/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.004/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.004/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.005/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.005/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.005/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.005/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.005/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.005/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.006/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.006/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.006/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.006/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.006/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.006/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.007/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.007/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.007/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.007/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.007/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.007/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.008/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.008/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.008/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.008/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.008/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.008/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.009/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.009/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.009/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.009/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.009/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.009/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.01/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.01/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.01/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.01/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.01/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.01/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.011/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.011/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.011/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.011/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.011/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.011/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.012/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.012/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.012/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.012/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.012/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.012/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.013/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.013/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.013/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.013/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.013/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.013/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.014/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.014/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.014/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.014/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.014/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.014/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.015/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.015/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.015/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.015/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.015/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.015/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.016/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.016/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.016/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.016/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.016/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.016/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.017/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.017/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.017/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.017/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.017/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.017/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.018/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.018/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.018/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.018/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.018/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.018/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.019/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.019/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.019/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.019/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.019/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.019/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.02/final_output_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.02/final_output_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.02/final_output_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.02/final_output_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.02/final_output_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Local extrema within signal buckets_0.02/final_output_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/SB_Scatter_Plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/SB_Scatter_Plot_with_(0.7, 1.5, 3)_multipliers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/SB_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/SS-SB.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/SS_Scatter_Plot.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/SS_Scatter_Plot_with_(0.7, 1.5, 3)_multipliers.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/SS_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/Sell-Bucket-with-extrema.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/SigAI-analysis-RSI-BB.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.004.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.005.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.006.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.007.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.008.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.009.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.011.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.012.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.013.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.014.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.015.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.016.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.017.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.018.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.019.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/ZigZag_Output/zigzag_output_0.02.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/lab2.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/SS-SB/price 2023-04-18, 2024-04-18 hourly.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Bucketed_Output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Bucketing.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.004.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.005.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.006.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.007.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.008.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.009.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.011.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.012.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.013.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.014.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.015.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.016.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.017.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.018.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.019.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/Updated_Bucketed_Output_0.02.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Sell and Buy Bucketing/bucket_plotting.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ZigZag-Model.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/aggregate-statistics.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2019-09-01, 2019-10-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2019-10-01, 2019-11-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2019-11-01, 2019-12-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2019-12-01, 2020-01-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-01-01, 2020-02-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-02-01, 2020-03-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-03-01, 2020-04-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-04-01, 2020-05-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-05-01, 2020-06-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-06-01, 2020-07-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-07-01, 2020-08-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-08-01, 2020-09-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-09-01, 2020-10-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-10-01, 2020-11-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-11-01, 2020-12-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2020-12-01, 2021-01-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-01-01, 2021-02-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-02-01, 2021-03-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-03-01, 2021-04-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-04-01, 2021-05-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-05-01, 2021-06-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-06-01, 2021-07-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-07-01, 2021-08-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-08-01, 2021-09-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-09-01, 2021-10-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-10-01, 2021-11-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-11-01, 2021-12-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2021-12-01, 2022-01-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-01-01, 2022-02-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-02-01, 2022-03-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-03-01, 2022-04-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-04-01, 2022-05-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-05-01, 2022-06-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-06-01, 2022-07-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-07-01, 2022-08-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-08-01, 2022-09-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-09-01, 2022-10-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-10-01, 2022-11-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-11-01, 2022-12-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2022-12-01, 2023-01-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-01-01, 2023-02-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-02-01, 2023-03-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-03-01, 2023-04-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-04-01, 2023-05-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-05-01, 2023-06-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-06-01, 2023-07-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-07-01, 2023-08-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-08-01, 2023-09-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-09-01, 2023-10-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-10-01, 2023-11-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-11-01, 2023-12-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2023-12-01, 2024-01-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2024-01-01, 2024-02-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2024-02-01, 2024-03-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/one-minute data in one month/price 2024-03-01, 2024-04-01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price 2019-09-01, 2024-04-18 hourly.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.004/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.004/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.005/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.005/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.006/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.006/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.007/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.007/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.008/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.008/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.009/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.009/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.01/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.01/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.011/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.011/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.012/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.012/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.013/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.013/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.014/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.014/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.015/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.015/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.016/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.016/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.017/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.017/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.018/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.018/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.019/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.019/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.02/new_analysis_dataframe.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/0.02/zigzag_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/ZigZag-alg.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/price 2023-04-18, 2024-04-18.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/price features/statistical-analysis.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MB_to_MB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MB_to_MS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MB_to_SB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MB_to_SS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MB_to_WB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MB_to_WS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MS_to_MB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MS_to_MS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MS_to_SB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MS_to_SS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MS_to_WB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/MS_to_WS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SB_to_MB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SB_to_MS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SB_to_SB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SB_to_SS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SB_to_WB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SB_to_WS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SS_to_MB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SS_to_MS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SS_to_SB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SS_to_SS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SS_to_WB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/SS_to_WS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WB_to_MB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WB_to_MS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WB_to_SB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WB_to_SS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WB_to_WB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WB_to_WS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WS_to_MB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WS_to_MS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WS_to_SB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WS_to_SS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WS_to_WB_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/WS_to_WS_output.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/segmentation/aggregate_statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_1.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_13.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_2.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_3.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_4.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_5.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_6.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_7.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_8.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/minute_level_dataset_9.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2023_04.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2023_05.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2023_06.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2023_07.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2023_08.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2023_09.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2023_10.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2023_11.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2023_12.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2024_01.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2024_02.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2024_03.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai in hour and minute/monthly_dataset_2024_04.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/MB/lower_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/MB/middle_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/MB/upper_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/MS/lower_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/MS/middle_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/MS/upper_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/SB/lower_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/SB/middle_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/SB/upper_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/SS/lower_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/SS/middle_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/SS/upper_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/WB/lower_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/WB/middle_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/WB/upper_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/WS/lower_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/WS/middle_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/WS/upper_third_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/aggregate_statistics_MB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/aggregate_statistics_MS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/aggregate_statistics_SB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/aggregate_statistics_SS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/aggregate_statistics_WB.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/aggregate_statistics_WS.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/combined_aggregate_statistics.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai-strength/sigai-strength.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai.ipynb" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/sigai_outputs_h.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signal segmentation of sigai/A_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signal segmentation of sigai/MB_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signal segmentation of sigai/MS_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signal segmentation of sigai/SB_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signal segmentation of sigai/SS_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signal segmentation of sigai/WB_data.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/signal segmentation of sigai/WS_data.csv" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 4
+}</component>
+  <component name="ProjectId" id="2eaGwdDxTVzHeZQ5XmJBOfisKmb" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-python-sdk-d68999036c7f-b11f5e8da5ad-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-233.14475.56" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="c083ad68-be34-4637-8348-b63a8c435460" name="Changes" comment="" />
+      <created>1712135514508</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712135514508</updated>
+      <workItem from="1712135515694" duration="63000" />
+      <workItem from="1718089862124" duration="21000" />
+      <workItem from="1719126943212" duration="231000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+</project>
